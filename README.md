@@ -23,6 +23,7 @@ Steps to perform
 1. Setup:
    - Install required libraries: OpenCV, MediaPipe, Pygame, NumPy.
    - Ensure webcam and microphone are functional.
+   - **Replace paths to sound and Image files in code to your own paths.**
 2. Run Application:
    - Execute the Python script.
    - Select a mode: Drawing, Game, or Piano.
